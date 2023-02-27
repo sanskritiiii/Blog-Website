@@ -6,4 +6,5 @@ The website is amde more with the help of html and css.
 
 
 
-![screencapture-endearing-selkie-1f23a0-netlify-app-2023-02-10-22_44_54](https://user-images.githubusercontent.com/96942950/218154319-2a4cc80e-4b4f-4977-8d1c-4c171dad7285.png)
+![blogpagepreview](https://user-images.githubusercontent.com/96942950/221622607-432facfa-1bc4-41a0-a77e-ae256858c183.jpeg)
+
